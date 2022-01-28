@@ -1,4 +1,3 @@
-import java.lang.Math;
 class ArmstrrongOrNot {
     public boolean armstrongCheck(int num) 
     {
