@@ -1,0 +1,168 @@
+src/Assignment5Q2.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/Assignment5Q2.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/Assignment5Q2.java:6:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/Assignment5Q2.java:6:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/Assignment5Q2.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Assignment5Q2.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Assignment5Q2.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:8:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'id' (lines '8'-'14').
+src/Assignment5Q2.java:8:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'id' (lines '8'-'14').
+src/Assignment5Q2.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/Assignment5Q2.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/Assignment5Q2.java:9:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n1' (lines '9'-'20').
+src/Assignment5Q2.java:9:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n1' (lines '9'-'20').
+src/Assignment5Q2.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like n1
+src/Assignment5Q2.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like n1
+src/Assignment5Q2.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:14:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'id' (lines '14'-'14').
+src/Assignment5Q2.java:14:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'id' (lines '14'-'14').
+src/Assignment5Q2.java:15:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n1' (lines '15'-'20').
+src/Assignment5Q2.java:15:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n1' (lines '15'-'20').
+src/Assignment5Q2.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'c' (lines '23'-'24').
+src/Assignment5Q2.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'c' (lines '23'-'24').
+src/Assignment5Q2.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/Assignment5Q2.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/Assignment5Q2.java:23:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'c' is never used (overwritten on line 24)
+src/Assignment5Q2.java:23:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'c' is never used (overwritten on line 24)
+src/Assignment5Q2.java:24:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:24:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:24:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:24:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'str' (lines '31'-'41').
+src/Assignment5Q2.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'str' (lines '31'-'41').
+src/Assignment5Q2.java:32:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '32'-'47').
+src/Assignment5Q2.java:32:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '32'-'47').
+src/Assignment5Q2.java:32:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/Assignment5Q2.java:32:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/Assignment5Q2.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:40:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '40'-'47').
+src/Assignment5Q2.java:40:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'c' (lines '40'-'47').
+src/Assignment5Q2.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'str' (lines '41'-'41').
+src/Assignment5Q2.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'str' (lines '41'-'41').
+src/Assignment5Q2.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'news' is not assigned and could be declared final
+src/Assignment5Q2.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/Assignment5Q2.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/Assignment5Q2.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/Assignment5Q2.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/Assignment5Q2.java:51:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/Assignment5Q2.java:51:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/Assignment5Q2.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/Assignment5Q2.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+src/Assignment5Q2.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Assignment5Q2.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/Assignment5Q2.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/Assignment5Q2.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/Assignment5Q2.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/Assignment5Q2.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/Assignment5Q2.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n1' could be declared final
+src/Assignment5Q2.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n1' could be declared final
+src/Assignment5Q2.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like n1
+src/Assignment5Q2.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like n1
+src/Assignment5Q2.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n2' could be declared final
+src/Assignment5Q2.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n2' could be declared final
+src/Assignment5Q2.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like n2
+src/Assignment5Q2.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like n2
+src/Assignment5Q2.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n3' could be declared final
+src/Assignment5Q2.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n3' could be declared final
+src/Assignment5Q2.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like n3
+src/Assignment5Q2.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like n3
+src/Assignment5Q2.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n4' could be declared final
+src/Assignment5Q2.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n4' could be declared final
+src/Assignment5Q2.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like n4
+src/Assignment5Q2.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like n4
+src/Assignment5Q2.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/Assignment5Q2.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/Assignment5Q2.java:77:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:77:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:78:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:78:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:79:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:79:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:80:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/Assignment5Q2.java:80:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/Assignment5Q2.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/Assignment5Q2.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/Assignment5Q2.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/News.java:2:	CommentRequired:	CommentRequired: Class comments are required
+src/News.java:2:	CommentRequired:	CommentRequired: Class comments are required
+src/News.java:2:	DataClass:	DataClass: The class 'News' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/News.java:2:	DataClass:	DataClass: The class 'News' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/News.java:2:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/News.java:2:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/News.java:2:	ShortClassName:	ShortClassName: Avoid short class names like News
+src/News.java:2:	ShortClassName:	ShortClassName: Avoid short class names like News
+src/News.java:3:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:3:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:3:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:3:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:3:	ImmutableField:	ImmutableField: Private field 'newsId' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:3:	ImmutableField:	ImmutableField: Private field 'newsId' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:4:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:4:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:4:	ImmutableField:	ImmutableField: Private field 'postedByUser' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:4:	ImmutableField:	ImmutableField: Private field 'postedByUser' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:5:	ImmutableField:	ImmutableField: Private field 'commentByUser' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:5:	ImmutableField:	ImmutableField: Private field 'commentByUser' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/News.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/News.java:6:	ImmutableField:	ImmutableField: Private field 'comment' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:6:	ImmutableField:	ImmutableField: Private field 'comment' could be made final; it is only initialized in the declaration or constructor.
+src/News.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/News.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'comment' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'comment' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'commentByUser' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'commentByUser' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'newsId' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'newsId' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'postedByUser' is not assigned and could be declared final
+src/News.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'postedByUser' is not assigned and could be declared final
