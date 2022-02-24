@@ -1,0 +1,25 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="Triangle" class ="Question10.Triangle" name="triangle-name">
+	<property name="pointA" ref="zeroPoint" />
+	<property name="pointB" ref="point1" />
+	<property name="pointC">
+		<bean class="Question10.Point">
+			<property name="x" value="20" />
+			<property name="y" value="0" />
+		</bean>
+	</property>
+</bean>
+
+
+<bean id="zeroPoint" class="Question10.Point">
+	<property name="x" value="0" />
+	<property name="y" value="0" />
+</bean>
+
+<bean id="point1" class="Question10.Point">
+	<property name="x" value="-20" />
+	<property name="y" value="0" />
+</bean>
+
+</beans>

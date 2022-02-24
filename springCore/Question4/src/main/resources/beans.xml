@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:context="http://www.springframework.org/schema/context"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+   http://www.springframework.org/schema/context
+   http://www.springframework.org/schema/context/spring-context-4.0.xsd" >
+   
+  
+   
+   <bean id="bankAccount1" class="Question3.BankAccount">
+   		   <property name="accountId" value="123" />
+   		   <property name="accountHolderName" value="abc" />
+   		   <property name="accountType" value="saving" />
+   		   <property name="accountBalance" value="1000" />
+   </bean>
+   
+   <bean id="bankAccount2" class="Question3.BankAccount">
+   		   <property name="accountId" value="124" />
+   		   <property name="accountHolderName" value="abcd" />
+   		   <property name="accountType" value="Current" />
+   		   <property name="accountBalance" value="987" />
+   </bean>
+   
+   <bean id="bankAccount3" class="Question3.BankAccount">
+   		   <property name="accountId" value="125" />
+   		   <property name="accountHolderName" value="abcde" />
+   		   <property name="accountType" value="saving" />
+   		   <property name="accountBalance" value="987" />
+   </bean>
+   
+   <bean id="bankAccountService" class="Question3.BankAccountServiceImpl" autowire="byType">
+   		
+   </bean>
+   
+   </beans>
