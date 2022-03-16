@@ -1,0 +1,9 @@
+table,th,td{
+    border: 1px solid black;
+    border-color:limegreen;
+}
+
+th{
+    background-color: limegreen;
+    color: white;
+}
