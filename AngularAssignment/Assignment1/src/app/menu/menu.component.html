@@ -1,0 +1,13 @@
+<h3>These are avilabe Menu </h3>
+
+<nav class="btn-group btn-group-toggle">
+  <button class="btn btn-secondary">Add</button>
+  <button class="btn btn-secondary">Edit</button>
+  <button class="btn btn-secondary">Delete</button>
+</nav>
+
+<ul class="list-group">
+    <li *ngFor="let menu of menus">
+      <span class="list-group-item list-group-item-action">{{menu.id}}. {{menu.name}}</span>
+    </li>
+</ul>
