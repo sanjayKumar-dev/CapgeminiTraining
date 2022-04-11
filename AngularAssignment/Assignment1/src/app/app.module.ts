@@ -8,6 +8,9 @@ import { RestaurantComponent } from './restaurant/restaurant.component';
 import { MenuComponent } from './menu/menu.component';
 import { UserComponent } from './user/user.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { AddComponent } from './add/add.component';
+import { EditComponent } from './edit/edit.component';
+import { DeleteComponent } from './delete/delete.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +20,10 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     RestaurantComponent,
     MenuComponent,
     UserComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    AddComponent,
+    EditComponent,
+    DeleteComponent
   ],
   imports: [
     BrowserModule,

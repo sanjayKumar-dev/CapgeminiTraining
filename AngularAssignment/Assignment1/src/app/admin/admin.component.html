@@ -1,4 +1,6 @@
 <nav>
-    <button routerLink="/menu" class="btn btn-info" >Menu</button>
+    <!-- <button routerLink="/menu" class="btn btn-info" >Menu</button> -->
+    <button (click)="onMenu()" class="btn btn-info" >Menu</button>
+    <router-outlet></router-outlet>
     <button routerLink="/restaurant" class="btn btn-info">Restaurant</button>
 </nav>
